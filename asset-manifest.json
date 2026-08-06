@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SOMNIA_DEMO_TEST/static/css/main.4b9b18b4.css",
-    "main.js": "/SOMNIA_DEMO_TEST/static/js/main.c0aecad1.js",
+    "main.js": "/SOMNIA_DEMO_TEST/static/js/main.c835edde.js",
     "static/media/Pretendard-ExtraBold.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-ExtraBold.26df84c2b3b8cb8a4b0c.woff2",
     "static/media/Pretendard-Bold.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-Bold.0c6f5e225ff28f456183.woff2",
     "static/media/Pretendard-SemiBold.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-SemiBold.d5ded8ad2884e7855bb1.woff2",
@@ -30,10 +30,10 @@
     "static/media/check.svg": "/SOMNIA_DEMO_TEST/static/media/check.5951289cf31df20687c47c1d320fdd62.svg",
     "static/media/expand.svg": "/SOMNIA_DEMO_TEST/static/media/expand.50eb7646bf2ae1d2c02a18de35ee8166.svg",
     "main.4b9b18b4.css.map": "/SOMNIA_DEMO_TEST/static/css/main.4b9b18b4.css.map",
-    "main.c0aecad1.js.map": "/SOMNIA_DEMO_TEST/static/js/main.c0aecad1.js.map"
+    "main.c835edde.js.map": "/SOMNIA_DEMO_TEST/static/js/main.c835edde.js.map"
   },
   "entrypoints": [
     "static/css/main.4b9b18b4.css",
-    "static/js/main.c0aecad1.js"
+    "static/js/main.c835edde.js"
   ]
 }
