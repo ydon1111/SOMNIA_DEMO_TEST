@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/SOMNIA_DEMO_TEST/static/css/main.4b9b18b4.css",
+    "main.js": "/SOMNIA_DEMO_TEST/static/js/main.c0aecad1.js",
+    "static/media/Pretendard-ExtraBold.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-ExtraBold.26df84c2b3b8cb8a4b0c.woff2",
+    "static/media/Pretendard-Bold.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-Bold.0c6f5e225ff28f456183.woff2",
+    "static/media/Pretendard-SemiBold.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-SemiBold.d5ded8ad2884e7855bb1.woff2",
+    "static/media/Pretendard-Medium.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-Medium.a9645bebe1a0010e66dc.woff2",
+    "static/media/Pretendard-Regular.woff2": "/SOMNIA_DEMO_TEST/static/media/Pretendard-Regular.38bed7de46e7b9049ced.woff2",
+    "static/media/user_home_bg1.webp": "/SOMNIA_DEMO_TEST/static/media/user_home_bg1.7a0fc769ec21c9f7f2af.webp",
+    "static/media/Logo_Dark.svg": "/SOMNIA_DEMO_TEST/static/media/Logo_Dark.0eed830c0b541321422dba58f2d72908.svg",
+    "static/media/step2.svg": "/SOMNIA_DEMO_TEST/static/media/step2.e61460cb8d1040dfcb1fdeb77674c247.svg",
+    "static/media/asc.svg": "/SOMNIA_DEMO_TEST/static/media/asc.0c41f640777f0d5f8a4846114a7d6d75.svg",
+    "static/media/desc.svg": "/SOMNIA_DEMO_TEST/static/media/desc.4703604015990fa2aca220d7296b6e7d.svg",
+    "static/media/search.svg": "/SOMNIA_DEMO_TEST/static/media/search.bc175dfa4f12a14d6b0ab15fafbcb49a.svg",
+    "static/media/info.svg": "/SOMNIA_DEMO_TEST/static/media/info.5e772256a251318cb6204aaa9a43692a.svg",
+    "static/media/usertype1.svg": "/SOMNIA_DEMO_TEST/static/media/usertype1.140f06729e4665ab643389c8c0456c6e.svg",
+    "static/media/step1.svg": "/SOMNIA_DEMO_TEST/static/media/step1.ebd0e1ee2ea766568ae4c826f2df0067.svg",
+    "static/media/submit.svg": "/SOMNIA_DEMO_TEST/static/media/submit.02f7de6ffaaf4df375f84e6b4fa360e1.svg",
+    "index.html": "/SOMNIA_DEMO_TEST/index.html",
+    "static/media/usertype2.svg": "/SOMNIA_DEMO_TEST/static/media/usertype2.5aac28eac8583e33c37c8bef10c649e9.svg",
+    "static/media/close.svg": "/SOMNIA_DEMO_TEST/static/media/close.0b1bfd5da334ae628456c5680e5183dd.svg",
+    "static/media/calendar.svg": "/SOMNIA_DEMO_TEST/static/media/calendar.24e259ba2eb80e4193801bfbb612b50c.svg",
+    "static/media/logout.svg": "/SOMNIA_DEMO_TEST/static/media/logout.3e111b6673d9b83d58156b7e7a7759c3.svg",
+    "static/media/step3.svg": "/SOMNIA_DEMO_TEST/static/media/step3.937cff5d5d1f34af0d6778fb83e4c455.svg",
+    "static/media/alarm.svg": "/SOMNIA_DEMO_TEST/static/media/alarm.f2547341d7ccf76fc2a96ae40aa79ea9.svg",
+    "static/media/success.svg": "/SOMNIA_DEMO_TEST/static/media/success.6f23c2c0719e5c6e2d5e54670a6d1b75.svg",
+    "static/media/failure.svg": "/SOMNIA_DEMO_TEST/static/media/failure.e178ad78b0da37108d05e415f6d7d6ba.svg",
+    "static/media/download.svg": "/SOMNIA_DEMO_TEST/static/media/download.fa6ce3a70d0496e3ef6bd7600de3c540.svg",
+    "static/media/check.svg": "/SOMNIA_DEMO_TEST/static/media/check.5951289cf31df20687c47c1d320fdd62.svg",
+    "static/media/expand.svg": "/SOMNIA_DEMO_TEST/static/media/expand.50eb7646bf2ae1d2c02a18de35ee8166.svg",
+    "main.4b9b18b4.css.map": "/SOMNIA_DEMO_TEST/static/css/main.4b9b18b4.css.map",
+    "main.c0aecad1.js.map": "/SOMNIA_DEMO_TEST/static/js/main.c0aecad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9b18b4.css",
+    "static/js/main.c0aecad1.js"
+  ]
+}
